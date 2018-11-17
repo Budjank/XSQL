@@ -1,5 +1,5 @@
 # XSQL
-pkg install apt
+pkg install apt <br>
 apt install git
 git clone https://github.com/Budjank/XSQL
 cd XSQL
